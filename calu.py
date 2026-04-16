@@ -26,7 +26,7 @@ def main():
     print("5. Exit")
     
     while True:
-        choice = input("\nEnter choice (1/2/3/4/5) in the space provided: ")
+        choice = input("\nEnter choice (1/2/3/4/5)  ")
         
         if choice == '5':
             print("Thank you for using the calculator!")
