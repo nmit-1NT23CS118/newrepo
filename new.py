@@ -29,7 +29,7 @@ def main():
         choice = input("\nEnter choice (1/2/3/4/5): ")
         
         if choice == '5':
-            print("Thank you for using the calculator!")
+            print("Thank you for using the calculator!, try again later.")
             break
         
         if choice in ('1', '2', '3', '4'):
